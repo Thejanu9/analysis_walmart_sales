@@ -17,8 +17,6 @@ This comprehensive data analysis project processes, cleans, and analyzes Walmart
  - [Prerequisites](#prerequisites)
  - [Installation](#installation)
 - [Usage](#usage)
- - [Data Cleaning](#data-cleaning)
- - [Database Operations](#database-operations)
  - [Data Analysis](#data-analysis)
 - [Key Insights](#key-insights)
 - [Deployment](#deployment)
@@ -160,7 +158,7 @@ Walmartsalesanalysis/
 Run the data analysis module to generate insights:
 
 ```bash
-python data_analysis.py
+python data_tools_project (1).py
 ```
 
 This script will:
@@ -190,7 +188,7 @@ Tests database connectivity, query execution, and data type handling.
 ### Data Analysis Tests
 
 ```bash
-python data_analysis.py
+python data_tools_project (1).py
 ```
 Validates analysis functions and visualization generation.
 
