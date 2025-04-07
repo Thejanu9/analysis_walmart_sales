@@ -5,7 +5,8 @@
 
 ## Project Overview
 
-This project analyzes Walmart sales data (2001-2015) using data cleaning, MySQL operations, and visualization techniques to uncover retail business insights.
+This retail analytics project systematically processes, transforms, and analyzes Walmart's sales data spanning 15 years (2001–2015) to uncover actionable business insights. Leveraging Python for data handling, advanced cleaning techniques (handling missing values, outlier correction, and feature engineering), and MySQL for efficient database management and visualization techniques to uncover retail business insights.
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
