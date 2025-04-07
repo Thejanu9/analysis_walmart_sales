@@ -5,8 +5,7 @@
 
 ## Project Overview
 
-This comprehensive data analysis project processes, cleans, and analyzes Walmart retail sales data from 2001 to 2015. The project demonstrates advanced data cleaning techniques, MySQL database operations, and data visualization to extract meaningful business insights from retail sales data.
-
+This project analyzes Walmart sales data (2001-2015) using data cleaning, MySQL operations, and visualization techniques to uncover retail business insights.
 ## Table of Contents
 
 - [Project Overview](#project-overview)
