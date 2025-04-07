@@ -80,7 +80,7 @@ Walmartsalesanalysis/
 
    1. **Clone the repository**
   ```bash
-  git clone 
+  git clone https://github.com/Thejanu9/analysis_walmart_sales.git
   ```
 
    2. **Install required Python packages**
@@ -153,33 +153,7 @@ Walmartsalesanalysis/
 
 ## Usage
 
-### Data Cleaning
 
-Run the data cleaning module to preprocess the raw data:
-
-```bash
-python data_cleaning.py
-```
-
-This script will:
-- Load the raw Excel data
-- Remove special characters from product names
-- Convert dates to proper format
-- Export cleaned data to CSV format
-
-### Database Operations
-
-Run the database operations module to interact with MySQL:
-
-```bash
-python database_operations.py
-```
-
-This script will:
-- Connect to the MySQL database
-- Execute sample queries
-- Display table information
-- Update data types as needed
 
 ### Data Analysis
 
@@ -206,14 +180,6 @@ The analysis reveals several important business insights:
 3. **Yearly Trends**: Order volume increased dramatically in 2012-2015 compared to earlier years, with 2012 showing the highest number of orders.
 
 
-
-### Data Cleaning Tests
-
-```bash
-python data_cleaning.py
-```
-Verifies data loading, cleaning, and export functions.
-
 ### Database Operations Tests
 
 ```bash
@@ -230,7 +196,7 @@ Validates analysis functions and visualization generation.
 
 ## Deployment
 
-This project is designed for flexible deployment but still not deployed but can done by using GitHub CI/CD pipeline, flask/django framework, fastapi and aws server or heruko:
+This project is designed for flexible deployment but still not deployed but can done by using GitHub CI/CD pipeline, flask/django framework, fastapi and aws server or heroku:
 
 ### Local Analysis
 
