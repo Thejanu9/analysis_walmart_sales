@@ -44,10 +44,8 @@ Walmartsalesanalysis/
     └── data.py
 ├── Visualtions/
 │   └──Highest Profitsubcategory.png
-│   └── profit_vs_orders.png
     └── Most Profitablesub category.png
-    └── top_subcategories_by_region.png
-    └── Most Profitablesub category.png
+    └── top 5 most profitable.png
 ├── requirements.txt
 ├── README.md
 ├── LICENSE.md
